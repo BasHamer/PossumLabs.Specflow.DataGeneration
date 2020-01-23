@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/PossumLabs.Specflow.DataGeneration/v15
+/PossumLabs.Specflow.DataGeneration/obj
+/PossumLabs.Specflow.DataGeneration/bin/Debug/netstandard2.0
